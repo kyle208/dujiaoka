@@ -465,6 +465,7 @@ CREATE TABLE `webset` (
   `isopen_searchpwd` int(1) NOT NULL DEFAULT '1',
   `isopen_serverj` int(1) DEFAULT NULL,
   `serverj_token` varchar(100) DEFAULT NULL,
+  `tpl_sign` varchar(200) NOT NULL DEFAULT 'layui',
   `created_at` timestamp NULL DEFAULT NULL,
   `updated_at` timestamp NULL DEFAULT NULL,
   PRIMARY KEY (`id`)
@@ -474,7 +475,7 @@ CREATE TABLE `webset` (
 -- Records of webset
 -- ----------------------------
 BEGIN;
-INSERT INTO `webset` VALUES (1, '独角数卡 - 一站式自动售货方案', '独角数卡', 'uploads/images/default.jpg', '独角数卡', '独角数卡', '独角数卡', NULL, 1, 'admin@admin.com', 'zh-CN', 1, 1, NULL, NULL, NULL, '2020-04-05 22:48:12');
+INSERT INTO `webset` VALUES (1, '独角数卡 - 一站式自动售货方案', '独角数卡', 'uploads/images/default.jpg', '独角数卡', '独角数卡', '独角数卡', NULL, 1, 'admin@admin.com', 'zh-CN', 1, 1, NULL, NULL,  'layui', '2020-04-05 22:48:12', '2020-04-05 22:48:12');
 COMMIT;
 
 SET FOREIGN_KEY_CHECKS = 1;

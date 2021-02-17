@@ -2,7 +2,7 @@
 
 <p align="center">
 <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/license-MIT-blue" alt="license MIT"></a>
-<a href="https://github.com/assimon/dujiaoka/releases/tag/v1.8.1"><img src="https://img.shields.io/badge/pod-v1.8.1-red" alt="version v1.8.1"></a>
+<a href="https://github.com/assimon/dujiaoka/releases/tag/v1.8.2"><img src="https://img.shields.io/badge/pod-v1.8.2-red" alt="version v1.8.2"></a>
 <a href="https://shang.qq.com/wpa/qunwpa?idkey=37b6b06f7c941dae20dcd5784088905d6461064d7f33478692f0c4215546cee0"><img src="https://img.shields.io/badge/QQ%E7%BE%A4-568679748-green" alt="QQ群：568679748"></a>
 </p>
 
@@ -21,6 +21,7 @@ demo地址：[http://dujiaoka.com](http://dujiaoka.com)
 
 模板贡献者：
 - [Julyssn](https://github.com/Julyssn) 模板`luna`作者
+- [bimoe](https://github.com/bimoe) 模板`hyper`作者
 
 鸣谢以上开源项目及贡献者，排名不分先后.    
 
@@ -49,6 +50,9 @@ demo地址：[http://dujiaoka.com](http://dujiaoka.com)
 【luna模板】
 ![首页.png](https://i.loli.net/2020/10/24/ElKwJFsQy4a9fZi.png)
 ![订单页.png](https://i.loli.net/2020/10/24/jG5Mw137HrzOlFA.png)
+
+【hyper模板】
+![首页.png](https://i.loli.net/2021/01/06/nHCSV5PdJIzT6Gy.png)
 
 ## 支付接口已集成
 - [x] 支付宝当面付
@@ -92,6 +96,8 @@ demo地址：[http://dujiaoka.com](http://dujiaoka.com)
 - [常见问题锦集](/wikis/problems.md)
 - [模板更换](/wikis/problems.md#更换模板)
 - [系统升级](/wikis/update.md)
+- [各支付对应后台配置](/wikis/problems.md#各支付对应配置)
+
 
 ## 默认后台
 
@@ -108,6 +114,14 @@ demo地址：[http://dujiaoka.com](http://dujiaoka.com)
 <p align="center"  width="400">
 <a href="https://www.kvmla.pro/aff.php?aff=2761"><img src="https://i.loli.net/2020/07/10/FZRSU1NemgM6zXJ.png" alt="kvmla.com"></a>
 </p>
+
+## Thanks
+
+Thanks JetBrains for the free open source license
+
+<a href="https://www.jetbrains.com/?from=gev" target="_blank">
+	<img src="https://i.loli.net/2021/02/08/2aejB8rwNmQR7FG.png" width = "260" align=center />
+</a>
 
 
 ## License
